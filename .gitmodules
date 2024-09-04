@@ -1,0 +1,6 @@
+[submodule "Payment_Service"]
+	path = Payment_Service
+	url = https://github.com/Sky2709/Payment-service
+[submodule "Product_Service"]
+	path = Product_Service
+	url = https://github.com/Sky2709/Product-ServicesNew
