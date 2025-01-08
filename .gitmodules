@@ -8,3 +8,7 @@
 	path = Payment-service
 	url = https://github.com/Sky2709/Payment-service.git
 	branch = main
+[submodule "Product-ServicesNew"]
+	path = Product-ServicesNew
+	url = https://github.com/Sky2709/Product-ServicesNew.git
+	branch = main
