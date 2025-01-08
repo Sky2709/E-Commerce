@@ -7,3 +7,4 @@
 [submodule "Payment-service"]
 	path = Payment-service
 	url = https://github.com/Sky2709/Payment-service.git
+	branch = main
