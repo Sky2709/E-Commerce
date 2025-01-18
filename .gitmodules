@@ -12,3 +12,6 @@
 	path = Product-ServicesNew
 	url = https://github.com/Sky2709/Product-ServicesNew.git
 	branch = main
+[submodule "User_Service"]
+	path = User_Service
+	url = https://github.com/Sky2709/User-Service.git
